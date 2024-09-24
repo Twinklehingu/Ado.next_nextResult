@@ -1,0 +1,1 @@
+# Ado.next_nextResult
